@@ -16,6 +16,8 @@ people:
 
     - {name: Claus Fieker, affiliation: RPTU Kaiserslautern-Landau}
 
+    - {name: Tommy Hofmann: affiliation: University of Siegen}
+
     - {name: Max Horn, affiliation: RPTU Kaiserslautern-Landau}
 
     - {name: Miķelis Emīls Miķelsons, affiliation: RPTU Kaiserslautern-Landau}
